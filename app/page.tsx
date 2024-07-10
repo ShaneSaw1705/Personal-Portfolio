@@ -19,7 +19,7 @@ export default function Home() {
         </div>
       </div>
       <img
-        src="./images/faceshot.jpeg"
+        src="/images/faceshot.jpg"
         alt=""
         className="max-w-md max-h-md rounded-full border-8 border-lime-300 shadow-lg"
       />
